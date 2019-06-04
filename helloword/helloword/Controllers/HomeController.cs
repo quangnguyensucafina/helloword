@@ -31,6 +31,7 @@ namespace helloword.Controllers
 
         public IActionResult Privacy()
         {
+            //1.0
             return View();
         }
 
